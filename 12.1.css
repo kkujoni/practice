@@ -1,0 +1,33 @@
+
+@import url(HTML5/normalize.css);
+@import url(HTML5/reset.css);
+
+body{
+  font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+  background-color: cornflowerblue;
+
+}
+
+.header{
+  background-color: yellow;
+}
+.visual{
+  background-color: green;
+}
+.group1{
+  background-color:wheat;
+}
+.group2{
+  background-color:indianred;
+}
+.group3{
+  background-color:darksalmon;
+}
+.slogun{
+  background-color: cadetblue;
+}
+.footer{
+  background-color: khaki;
+}
+
+
